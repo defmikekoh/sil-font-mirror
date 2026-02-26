@@ -10,6 +10,7 @@ Google Fonts hosts these fonts but serves subsetted versions that break composit
 |------|---------|------|--------|
 | [Andika](https://software.sil.org/andika/) | 7.000 | Sans-serif | [Download](https://software.sil.org/andika/download/) |
 | [Charis](https://software.sil.org/charis/) | 7.000 | Serif | [Download](https://software.sil.org/charis/download/) |
+| [Gentium](https://software.sil.org/gentium/) | 7.000 | Serif | [Download](https://software.sil.org/gentium/download/) |
 
 ## License
 
